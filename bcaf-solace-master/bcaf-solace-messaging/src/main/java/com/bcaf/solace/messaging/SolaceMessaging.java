@@ -61,7 +61,6 @@ public class SolaceMessaging {
                 e.printStackTrace();
             }
             logger.info("Construct JSON : " + msg);
-           // System.out.println("Payload: " + v);
             return msg;
         };
     }
