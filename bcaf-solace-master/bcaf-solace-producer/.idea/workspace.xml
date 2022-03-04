@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3b273f98-eae2-404f-b677-d2a934fcd29b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../bcaf-solace-consumer/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bcaf-solace-consumer/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bcaf-solace-consumer/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bcaf-solace-consumer/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bcaf-solace-consumer/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bcaf-solace-consumer/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bcaf-solace-consumer/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bcaf-solace-consumer/src/main/java/com/bcaf/solace/consumer/SolaceConsumerApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bcaf-solace-consumer/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bcaf-solace-processor/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bcaf-solace-processor/src/main/java/com/bcaf/solace/producer/SolaceProcessorApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bcaf-solace-processor/src/main/java/com/bcaf/solace/producer/model/Json.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bcaf-solace-processor/src/main/java/com/bcaf/solace/producer/model/Notification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bcaf-solace-processor/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bcaf/solace/producer/SolaceProducerApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bcaf-solace-messaging/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bcaf-solace-messaging/src/main/java/com/bcaf/solace/messaging/SolaceMessaging.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bcaf-solace-messaging/src/main/java/com/bcaf/solace/model/Json.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bcaf-solace-messaging/src/main/java/com/bcaf/solace/model/SendEmail.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bcaf-solace-messaging/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bcaf-solace-messaging/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bcaf-solace-messaging/target/classes/com/bcaf/solace/common/Json.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bcaf-solace-messaging/target/classes/com/bcaf/solace/common/ProduceNotification.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bcaf-solace-messaging/target/classes/com/bcaf/solace/common/SendEmail.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bcaf-solace-messaging/target/classes/com/bcaf/solace/messaging/SolaceMessaging.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bcaf-solace-messaging/target/classes/com/bcaf/solace/model/Json.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bcaf-solace-messaging/target/classes/com/bcaf/solace/model/SendEmail.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="25tnDkD6Estzm4yTcGrYyJqUGEK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../bcaf-solace-consumer/pom.xml" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager">
+    <configuration name="SolaceProducerApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bcaf.solace.producer.SolaceProducerApp" />
+      <module name="bcaf-solace-producer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bcaf.solace.producer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SolaceProducerApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3b273f98-eae2-404f-b677-d2a934fcd29b" name="Changes" comment="" />
+      <created>1646355135281</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1646355135281</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,68 @@
+#spring:
+#  cloud:
+#    function:
+#      definition: producer;processor;consumer
+#    stream:
+#      bindings:
+#        producer-out-0:
+#          destination: bcaf/notif/input
+#        processor-in-0:
+#          destination: NOTIF.Q
+#          group: GROUP1
+#        processor-out-0:
+#          destination: bcaf/notif/output
+#        consumer-in-0:
+#          destination: NOTIF.Q
+#          group: GROUP2
+#      binders:
+#        local-solace:
+#          type: solace
+#          environment:
+#            solace:
+#              java:
+#                host: tcp://192.168.56.31:55555
+#                msgVpn: default
+#                clientUsername: default
+#                clientPassword: default
+#      solace:
+#        bindings:
+#          processor-in-0:
+#            consumer:
+#              queueAdditionalSubscriptions: bcaf/notif/input
+#          consumer-in-0:
+#            consumer:
+#              queueAdditionalSubscriptions: bcaf/notif/output
+#logging:
+#  level:
+#    root: INFO
+#    com.solacesystems.jcsmp: INFO
+#    org.springframework: INFO
+
+spring:
+  cloud:
+    function:
+      definition: processor
+    stream:
+      bindings:
+        processor-in-0:
+          destination: bcaf/notif/input
+        processor-out-0:
+          destination: bcaf/notif/output
+      binders:
+        local-solace:
+          type: solace
+          environment:
+            solace:
+              java:
+                host: tcp://192.168.56.31:55555
+                msgVpn: default
+                clientUsername: default
+                clientPassword: default
+
+server:
+  port: 8092
+notif:
+  from: from@gmail.com
+  to: to@gmail.com
+  cc: null
+  subject: Test subject

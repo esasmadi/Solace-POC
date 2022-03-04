@@ -8,7 +8,9 @@
     <artifactId>parent</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <modules>
-        <module>bcaf-solace-common</module>
+        <module>bcaf-solace-producer</module>
+        <module>bcaf-solace-consumer</module>
+        <module>bcaf-solace-processor</module>
     </modules>
     <packaging>pom</packaging>
 
